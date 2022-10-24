@@ -1,0 +1,112 @@
+
+j
+java:S1104"TMake BTN_USER a static final constant or non-public and provide accessors if needed.(«‰ç×
+}
+java:S1104	"bMake LBL_CREATE_NEW_ACCOUNT a static final constant or non-public and provide accessors if needed.(¢Õıÿÿÿÿ
+o
+java:S1104"YMake TXT_USER_NAME a static final constant or non-public and provide accessors if needed.(èå¾
+k
+java:S1104"UMake TXT_EMAIL a static final constant or non-public and provide accessors if needed.(……·’
+n
+java:S1104"XMake TXT_PASSWORD a static final constant or non-public and provide accessors if needed.(ƒ÷ñ
+v
+java:S1104"`Make TXT_CONFIRM_PASSWORD a static final constant or non-public and provide accessors if needed.(êõŠ
+u
+java:S1104"ZMake TXT_FIRST_NAME a static final constant or non-public and provide accessors if needed.(ª•¶Îùÿÿÿÿ
+t
+java:S1104"YMake TXT_LAST_NAME a static final constant or non-public and provide accessors if needed.(‚‡üüÿÿÿÿ
+w
+java:S1104"\Make TXT_PHONE_NUMBER a static final constant or non-public and provide accessors if needed.(€£Ğşÿÿÿÿ
+m
+java:S1104"WMake LBL_COUNTRY a static final constant or non-public and provide accessors if needed.(×À£Ú
+j
+java:S1104"TMake TXT_CITY a static final constant or non-public and provide accessors if needed.(½ß×è
+m
+java:S1104"WMake TXT_ADDRESS a static final constant or non-public and provide accessors if needed.(®œâÑ
+k
+java:S1104"UMake TXT_STATE a static final constant or non-public and provide accessors if needed.(£šÎĞ
+q
+java:S1104"VMake TXT_POSTAL a static final constant or non-public and provide accessors if needed.(¬Æášúÿÿÿÿ
+r
+java:S1104"WMake CBX_RECEIVE a static final constant or non-public and provide accessors if needed.(Ÿâ“Øÿÿÿÿÿ
+r
+java:S1104"WMake CBX_I_AGREE a static final constant or non-public and provide accessors if needed.(Òæì´ùÿÿÿÿ
+s
+java:S1104"XMake BTN_REGISTER a static final constant or non-public and provide accessors if needed.(¨ëÎÏúÿÿÿÿ
+u
+java:S1104""_Make TXT_VALIDACION_USER a static final constant or non-public and provide accessors if needed.(Ë€ä»
+D
+java:S1444".Make this "public static BTN_USER" field final(«‰ç×
+W
+java:S1444	"<Make this "public static LBL_CREATE_NEW_ACCOUNT" field final(¢Õıÿÿÿÿ
+I
+java:S1444"3Make this "public static TXT_USER_NAME" field final(èå¾
+E
+java:S1444"/Make this "public static TXT_EMAIL" field final(……·’
+H
+java:S1444"2Make this "public static TXT_PASSWORD" field final(ƒ÷ñ
+P
+java:S1444":Make this "public static TXT_CONFIRM_PASSWORD" field final(êõŠ
+O
+java:S1444"4Make this "public static TXT_FIRST_NAME" field final(ª•¶Îùÿÿÿÿ
+N
+java:S1444"3Make this "public static TXT_LAST_NAME" field final(‚‡üüÿÿÿÿ
+Q
+java:S1444"6Make this "public static TXT_PHONE_NUMBER" field final(€£Ğşÿÿÿÿ
+G
+java:S1444"1Make this "public static LBL_COUNTRY" field final(×À£Ú
+D
+java:S1444".Make this "public static TXT_CITY" field final(½ß×è
+G
+java:S1444"1Make this "public static TXT_ADDRESS" field final(®œâÑ
+E
+java:S1444"/Make this "public static TXT_STATE" field final(£šÎĞ
+K
+java:S1444"0Make this "public static TXT_POSTAL" field final(¬Æášúÿÿÿÿ
+L
+java:S1444"1Make this "public static CBX_RECEIVE" field final(Ÿâ“Øÿÿÿÿÿ
+L
+java:S1444"1Make this "public static CBX_I_AGREE" field final(Òæì´ùÿÿÿÿ
+M
+java:S1444"2Make this "public static BTN_REGISTER" field final(¨ëÎÏúÿÿÿÿ
+O
+java:S1444""9Make this "public static TXT_VALIDACION_USER" field final(Ë€ä»
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã‚Åšùÿÿÿÿ8Ï–ÁÔ–0
+i
+java:S3008"SRename this field "BTN_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‰ç×
+|
+java:S3008	"aRename this field "LBL_CREATE_NEW_ACCOUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Õıÿÿÿÿ
+n
+java:S3008"XRename this field "TXT_USER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èå¾
+j
+java:S3008"TRename this field "TXT_EMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(……·’
+m
+java:S3008"WRename this field "TXT_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ÷ñ
+u
+java:S3008"_Rename this field "TXT_CONFIRM_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êõŠ
+t
+java:S3008"YRename this field "TXT_FIRST_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª•¶Îùÿÿÿÿ
+s
+java:S3008"XRename this field "TXT_LAST_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‡üüÿÿÿÿ
+v
+java:S3008"[Rename this field "TXT_PHONE_NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€£Ğşÿÿÿÿ
+l
+java:S3008"VRename this field "LBL_COUNTRY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×À£Ú
+i
+java:S3008"SRename this field "TXT_CITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ß×è
+l
+java:S3008"VRename this field "TXT_ADDRESS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®œâÑ
+j
+java:S3008"TRename this field "TXT_STATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£šÎĞ
+p
+java:S3008"URename this field "TXT_POSTAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Æášúÿÿÿÿ
+q
+java:S3008"VRename this field "CBX_RECEIVE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿâ“Øÿÿÿÿÿ
+q
+java:S3008"VRename this field "CBX_I_AGREE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òæì´ùÿÿÿÿ
+r
+java:S3008"WRename this field "BTN_REGISTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ëÎÏúÿÿÿÿ
+t
+java:S3008""^Rename this field "TXT_VALIDACION_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë€ä»
+P
+java:S1118":Add a private constructor to hide the implicit public one.(å”€
